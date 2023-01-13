@@ -1,6 +1,7 @@
 ### Basit_website.2 <hr>
 
-kullanıcıların işletme hakkında rahat bilgi almasını sağlar.<hr>
+
+Kullanıcıların işletme hakkında bilgiye ulaşmasına kolaylık sağlar.<hr>
 
 
 
